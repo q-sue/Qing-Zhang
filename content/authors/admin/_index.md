@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 张皮皮
+title: 夏皮皮
 
 # Name pronunciation (optional)
 name_pronunciation: Pi Zhang PI
@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:qq22.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
