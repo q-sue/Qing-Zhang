@@ -3,7 +3,7 @@
 title: 张皮皮
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Pi Zhang PI
 
 # Full name (for SEO)
 first_name: Pi Zhang
